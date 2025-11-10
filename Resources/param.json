@@ -1,0 +1,17 @@
+[
+    {
+        "p_rel_url" : "dvumbi1988/AzureProjectProjectWithDevOps/blob/main/Resources/athletes.csv",
+        "p_folder" : "athletes",
+        "p_file" : "athletes.parquet"
+    },
+    {
+        "p_rel_url" : "dvumbi1988/AzureProjectProjectWithDevOps/blob/main/Resources/coaches.csv",
+        "p_folder" : "coaches",
+        "p_file" : "coaches.parquet"
+    },
+    {
+        "p_rel_url" : "dvumbi1988/AzureProjectProjectWithDevOps/blob/main/Resources/events.csv",
+        "p_folder" : "events",
+        "p_file" : "events.parquet"
+    }
+]
